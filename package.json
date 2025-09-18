@@ -2,9 +2,8 @@
     "name": "templates-cli",
     "version": "1.0.0",
     "description": "CLI simples para gerar templates de projetos.",
-    "main": "index.js",
     "bin": {
-        "template-cli": "./index.js"
+        "template-cli": "./bin/cli.js"
     },
     "dependencies": {
         "commander": "^14.0.1",
