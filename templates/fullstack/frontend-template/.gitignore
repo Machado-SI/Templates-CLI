@@ -1,0 +1,69 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+/dist/
+/build/
+/.vite/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# parcel-bundler cache (if you use parcel)
+.cache
+
+# next.js build output (if you use Next.js)
+.next
+
+# nuxt.js build output (if you use Nuxt.js)
+.nuxt
+
+# vuepress build output (if you use VuePress)
+.vuepress/dist
+
+# Serverless directories (if you use serverless)
+.serverless/
+
+# FuseBox cache
+.fusebox/
+
+# Editor directories and files
+.atom/
+.emacs.desktop
+.emacs.desktop.lock
