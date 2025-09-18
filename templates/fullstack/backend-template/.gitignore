@@ -1,1 +1,8 @@
+# Arquivo de configuração do banco de dados
 db.js
+
+# Dependências do Node.js
+node_modules
+
+# Environment variables
+.env
