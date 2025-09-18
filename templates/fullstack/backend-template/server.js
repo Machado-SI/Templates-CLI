@@ -3,6 +3,9 @@ const app = express()
 const cors = require('cors')
 const dotenv = require('dotenv')
 
+// Importando a configuração do banco de dados
+const db = require('./db') 
+
 dotenv.config()
 app.use(express.json())
 app.use(cors())
