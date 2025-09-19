@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "CLI simples para gerar templates de projetos.",
     "bin": {
-        "template-cli": "./bin/cli.js"
+        "meu-cli": "./bin/cli.js"
     },
     "dependencies": {
         "commander": "^14.0.1",
