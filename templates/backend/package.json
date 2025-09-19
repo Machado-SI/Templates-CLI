@@ -5,7 +5,7 @@
   "scripts": {
     "start": "node server.js",
     "migrate": "node ./migrate.js",
-    "create:migration": "node-pg-migrate --migrations-dir diretório create"
+    "create:migration": "node-pg-migrate --migrations-dir ./migrations create"
   },
   "dependencies": {
     "dotenv": "^16.0.3",
