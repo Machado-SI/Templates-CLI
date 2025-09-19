@@ -4,7 +4,8 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "dev": "server.js"
+    "migrate": "node ./migrate.js",
+    "create:migration": "node-pg-migrate --migrations-dir diretório create"
   },
   "dependencies": {
     "dotenv": "^16.0.3",
