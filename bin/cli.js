@@ -18,7 +18,7 @@ progam
     .command('create')
     .description('Cria um novo projeto')
     .argument('<nome>', 'nome do projeto')
-    .option('-t', '--type <tipo>', 'fullstack ou backend', 'backend')
+    .option('-t, --type <tipo>', 'fullstack ou backend', 'backend')
     .action((nome, options) => {
         criarProjeto(nome, options.type)
     })
