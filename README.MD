@@ -21,6 +21,7 @@ cd Templates-CLI
 npm install -g
 ```
 ---
+
 ## Comandos
 
 Cria um template fullstack com backend e frontend
@@ -35,5 +36,6 @@ Cria um template backend
 meu-cli create -t nome-do-projeto backend
 ```
 ---
-## Requesitos
+
+## Requisitos
 1. **Node.js** instalado.
