@@ -1,7 +1,5 @@
 # Templates-CLI
 
----
-
 Este é um projeto de CLI que cria templates para facilitar o início de novos projetos.
 
 ---
